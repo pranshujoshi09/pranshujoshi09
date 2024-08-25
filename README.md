@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranshu</h1>
 <h3 align="center">A passionate About AI, ML, Robotics and Rocket</h3>
 
-- 🌱 I’m currently learning **Machine Learning (Model Training) & Programming**
+- 🌱 I’m currently learning **Machine Learning (Model Training), Programming & Maths**
 
 - 📫 How to reach me **pranshujoshi927@gmail.com**
 
