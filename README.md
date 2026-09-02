@@ -1,10 +1,24 @@
-<h1 align="center">Hi 👋, I'm Pranshu</h1>
-<h3 align="center">A passionate About AI, ML, Robotics and Rocket</h3>
+<h1 align="center">Hey 👋, I'm Pranshu</h1>
 
-- 🛠 Building and Learning AI 
-- 📫 How to reach me **pranshujoshi927@gmail.com**
+<h3 align="center">AI • ML • Discord Bots • Tools • Robotics • Software</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/pranshujoshi09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranshujoshi09" height="30" width="40" /></a>
+<p align="center">
+  Building things with AI, automation, and code.
 </p>
+
+### 🛠️ Currently
+
+* 🤖 Building & experimenting with AI
+* 🐍 Python & software development
+* 🤖 Creating Discord bots & developer tools
+* 🚀 Interested in Robotics & Space
+
+### 📫 Contact
+
+**[pranshujoshi927@gmail.com](mailto:pranshujoshi927@gmail.com)**
+
+### 🌐 Connect
+
+<a href="https://kaggle.com/pranshujoshi09">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
+</a>
